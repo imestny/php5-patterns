@@ -1,4 +1,4 @@
 php5-patterns
 =============
 
-PHP Objects and Patterns examples
+PHP Objects, Patterns and Practice
