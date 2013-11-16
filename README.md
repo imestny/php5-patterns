@@ -1,4 +1,4 @@
-php5-patterns
+phpDesignPatterns
 =============
 
 PHP Objects, Patterns and Practice
